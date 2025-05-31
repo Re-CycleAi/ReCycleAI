@@ -1,51 +1,172 @@
-# ReCycle AI - Desmontagem Inteligente de Cigarros Eletrônicos ♻️🤖
+ReCycle AI - Desmontagem Inteligente de Cigarros Eletrônicos ♻️🤖
 
-**Equipe:** Secta
-**[span_0](start_span)Hackathon:** 1º Hackathon Receita Federal 2025[span_0](end_span)
+Equipe: Secta
+Hackathon: 1º Hackathon Receita Federal 2025
 
-## 🚀 Quick Pitch
+ 
 
-[span_1](start_span)ReCycle AI é um sistema inovador baseado em Inteligência Artificial (IA) para a engenharia reversa automatizada de cigarros eletrônicos apreendidos.[span_1](end_span) [span_2](start_span)Nosso objetivo é identificar, mapear e guiar o processo de desmontagem e separação de componentes de forma eficiente, segura e sustentável, transformando um problema ambiental em uma oportunidade tecnológica e de impacto social.[span_2](end_span)
-
-🔗 **[Link para o Vídeo do Pitch de 3 Minutos]** (Adicione o link aqui quando estiver pronto)
-
-## 🎯 O Problema
-
-[span_3](start_span)[span_4](start_span)A Receita Federal apreende anualmente milhares de cigarros eletrônicos que, devido à proibição da ANVISA desde 2009[span_3](end_span)[span_4](end_span), representam um desafio de descarte. [span_5](start_span)Estes dispositivos contêm materiais tóxicos e poluentes, como baterias de lítio e nicotina, que ameaçam o meio ambiente e a saúde pública se não gerenciados corretamente.[span_5](end_span)
-
-## ✨ Nossa Solução: ReCycle AI
-
-Propomos um sistema de desmontagem inteligente que utiliza IA para:
-* **[span_6](start_span)Visão Computacional:** Reconhecer modelos e mapear componentes internos.[span_6](end_span)
-* **[span_7](start_span)Automação Robótica (Opcional):** Para desmontagem precisa e segura.[span_7](end_span)
-* **[span_8](start_span)Aprendizado Contínuo:** Para se adaptar a novos modelos.[span_8](end_span)
-* **[span_9](start_span)Extensão Futurista com Lumafield:** Integração com tomografia computadorizada para análise interna não destrutiva e planejamento otimizado da desmontagem.[span_9](end_span)
-
-[span_10](start_span)[span_11](start_span)Este projeto atende diretamente ao objetivo do Hackathon de reverter mercadorias apreendidas (cigarros eletrônicos) em soluções de impacto social e ambiental escaláveis.[span_10](end_span)[span_11](end_span)
-
-##  navigating_this_repository Navegação
-
-* **/docs:** Documentação detalhada do projeto.
-    * `problem_and_solution.md`: Detalhamento do problema e da solução ReCycle AI.
-    * `technical_details.md`: Arquitetura, tecnologias e MVP.
-    * `impact_and_viability.md`: Impactos, viabilidade (técnica, econômica, escalabilidade) e custos.
-    * `evaluation_criteria.md`: Como o ReCycle AI atende aos critérios de avaliação do Hackathon.
-    * [span_12](start_span)`liquid_disposal_research.md`: Pesquisa sobre descarte seguro de líquidos.[span_12](end_span)
-* **/mvp:** Materiais do Protótipo Mínimo Viável (códigos, mockups, simulações).
-* **/visuals:** Diagramas, fluxogramas e simulações 3D.
-* **/team_secta:** Sobre nossa equipe.
-
-## 🏆 Critérios de Avaliação do Hackathon
-
-Nosso projeto foi concebido para atender aos critérios de:
-1.  [span_13](start_span)Sustentabilidade[span_13](end_span)
-2.  [span_14](start_span)Viabilidade Técnica[span_14](end_span)
-3.  [span_15](start_span)Viabilidade Econômica[span_15](end_span)
-4.  [span_16](start_span)Escalabilidade[span_16](end_span)
-5.  [span_17](start_span)Criatividade e Inovação[span_17](end_span)
-6.  [span_18](start_span)Aplicação Social[span_18](end_span)
-7.  [span_19](start_span)Apresentação e Clareza[span_19](end_span)
-
-(Veja detalhes em `/docs/evaluation_criteria.md`)
 
 ---
+
+🚀 Quick Pitch
+
+ReCycle AI é uma solução baseada em IA que transforma cigarros eletrônicos apreendidos — um grave problema ambiental — em uma oportunidade de inovação. Nosso sistema identifica, analisa e orienta a desmontagem segura e eficiente desses dispositivos, com foco em reaproveitamento de materiais e educação ambiental.
+
+🔗 Assista ao Pitch de 3 Minutos (Atualize com o link do vídeo)
+
+
+---
+
+🌟 O Problema
+
+A Receita Federal apreende milhares de cigarros eletrônicos anualmente. Desde 2009, sua comercialização é proibida pela ANVISA. Esses dispositivos contêm materiais tóxicos como baterias de lítio e nicotina, que representam ameaças à saúde e ao meio ambiente se descartados incorretamente.
+
+
+---
+
+🛠️ Como Funciona o ReCycle AI
+
+Nossa solução de desmontagem inteligente é composta pelos seguintes módulos:
+
+Visão Computacional: IA baseada em CNNs identifica o modelo e os componentes internos dos vapes.
+
+Automatização Robótica (Opcional): Integração com robôs para desmontagem precisa e segura.
+
+Aprendizado Contínuo: O sistema se adapta a novos modelos conforme aprende.
+
+Extensão Futurista: Lumafield: Integração com tomografia computadorizada 3D para planejamento de desmontagem com base em imagens internas.
+
+
+
+---
+
+🔍 Demonstração Visual (MVP)
+
+Nosso MVP é um protótipo funcional de IA com:
+
+Detecção de componentes via imagens (usando CNN + OpenCV)
+
+Interface web simples simulando a desmontagem
+
+(Opcional) Simulação 3D animada com "visão" estilo Lumafield
+
+
+> “Imagine um raio-X digital que revela exatamente onde está cada parte perigosa ou reutilizável do vape. É isso que estamos construindo.”
+
+
+
+
+---
+
+🧭 Estrutura do Repositório
+
+/docs: Documentação completa
+
+problem_and_solution.md
+
+technical_details.md
+
+impact_and_viability.md
+
+evaluation_criteria.md
+
+liquid_disposal_research.md
+
+
+/mvp: Protótipo funcional (código, mockups, simulações)
+
+/visuals: Diagramas e fluxogramas
+
+/team_secta: Informações sobre a equipe
+
+
+
+---
+
+🏆 Como atendemos aos Critérios do Hackathon
+
+Critério	Como atendemos
+
+Sustentabilidade	Reaproveitamento de plásticos e metais, economia circular
+Viabilidade Técnica	IA com CNN, OpenCV, protótipo funcional
+Viabilidade Econômica	Redução de custos com desmontagem manual, valor agregado em componentes
+Escalabilidade	Replicável em qualquer polo da Receita ou centro de reciclagem
+Criatividade e Inovação	Integração com tomografia 3D e abordagem autônoma
+Aplicação Social	Oficinas educativas com partes desmontadas, conscientização ambiental
+Apresentação e Clareza	README estruturado, pitch visual, simulação clara
+
+
+
+---
+
+💼 Tecnologias Utilizadas
+
+Python + TensorFlow ou PyTorch
+
+OpenCV (visão computacional)
+
+Interface web (React ou HTML/CSS)
+
+Blender ou Figma (visualização 3D)
+
+(Opcional) Arduino/Raspberry Pi + câmera
+
+(Futurista) Lumafield Neptune + Voyager (CT Scan)
+
+
+
+---
+
+💰 Custo Estimado
+
+Item	Descrição	Estimativa de Custo
+
+MVP (Protótipo Inicial)	Desenvolvimento em Python, biblioteca de IA, uso de câmera básica	R$ 0 a R$ 500 (se necessário)
+Microcontrolador e sensores	Raspberry Pi/Arduino com câmera e sensores	R$ 300 a R$ 700
+Simulação 3D e Interface	Ferramentas gratuitas como Blender e Figma	R$ 0
+Infraestrutura para testes	Computador pessoal, ambiente de desenvolvimento local	R$ 0
+Extensão Futurista (Lumafield)	CT Scanner Lumafield Neptune (uso institucional ou parceria)	US$ 3.000/mês (opcional)
+
+
+> A abordagem inicial é extremamente acessível para implementação em pequena escala. A integração com tecnologias avançadas está prevista apenas para versões institucionais.
+
+---
+
+### 💡 Retorno Econômico para a Receita Federal
+
+O ReCycle AI não apenas resolve um problema ambiental e social, mas também oferece uma oportunidade de geração de valor. O retorno econômico para a Receita Federal pode ser obtido de várias formas:
+
+| **Fonte de Receita**                     | **Descrição**                                                                                           | **Estimativa de Retorno**                                   |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **Reaproveitamento de Materiais**        | Componentes de alto valor como baterias de lítio, plásticos e metais podem ser reciclados e revendidos. | R$ 200 a R$ 500 por vape (dependendo dos materiais recuperados) |
+| **Parcerias com Empresas de Reciclagem** | Parcerias com empresas para processamento dos materiais reaproveitados.                                 | R$ 50.000 a R$ 100.000 por ano (escala média)               |
+| **Licenciamento de Tecnologia**          | Possibilidade de licenciar a tecnologia de desmontagem para centros de triagem ou indústrias.           | R$ 20.000 a R$ 50.000 por ano                                |
+| **Educação e Conscientização**           | Módulos educativos e oficinas com peças desmontadas, para escolas e ONGs.                               | R$ 10.000 a R$ 30.000 por ano                                |
+
+> **Total Estimado de Retorno Anual:** R$ 280.000 a R$ 680.000, dependendo do volume de apreensões e parcerias firmadas.
+
+Este retorno pode cobrir os custos operacionais, financiar a expansão do projeto e ainda gerar recursos para programas de sustentabilidade e educação ambiental.
+
+---
+
+📅 Status no Hackathon
+
+✅ Credenciamento
+
+✅ Estrutura da equipe definida
+
+✅ Planejamento logístico e técnico para as 48h
+
+
+
+---
+
+🚀 Conclusão
+
+O ReCycle AI alia inovação tecnológica à responsabilidade ambiental. Com IA, automação e potencial educacional, nossa solução representa um novo caminho para o aproveitamento inteligente de produtos apreendidos.
+
+
+---
+
+Vamos transformar um passivo ambiental em um ativo educacional e tecnológico.
+
