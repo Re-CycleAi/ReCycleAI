@@ -1,172 +1,126 @@
-ReCycle AI - Desmontagem Inteligente de Cigarros Eletrônicos ♻️🤖
+# 🚮 ReCycle AI — Desmontagem Inteligente de Cigarros Eletrônicos ♻️🤖
 
-Equipe: Secta
-Hackathon: 1º Hackathon Receita Federal 2025
+> Uma iniciativa da equipe **Secta** para o **1º Hackathon Receita Federal 2025**
 
- 
-
-
----
-
-🚀 Quick Pitch
-
-ReCycle AI é uma solução baseada em IA que transforma cigarros eletrônicos apreendidos — um grave problema ambiental — em uma oportunidade de inovação. Nosso sistema identifica, analisa e orienta a desmontagem segura e eficiente desses dispositivos, com foco em reaproveitamento de materiais e educação ambiental.
-
-🔗 Assista ao Pitch de 3 Minutos (Atualize com o link do vídeo)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Feito%20com-Python-blue" />
+  <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-green" />
+</p>
 
 ---
 
-🌟 O Problema
+## 🚀 Visão Geral
 
-A Receita Federal apreende milhares de cigarros eletrônicos anualmente. Desde 2009, sua comercialização é proibida pela ANVISA. Esses dispositivos contêm materiais tóxicos como baterias de lítio e nicotina, que representam ameaças à saúde e ao meio ambiente se descartados incorretamente.
+**ReCycle AI** é uma solução baseada em Inteligência Artificial que transforma cigarros eletrônicos apreendidos — um problema ambiental crescente — em uma oportunidade de inovação tecnológica, educativa e econômica.
 
-
----
-
-🛠️ Como Funciona o ReCycle AI
-
-Nossa solução de desmontagem inteligente é composta pelos seguintes módulos:
-
-Visão Computacional: IA baseada em CNNs identifica o modelo e os componentes internos dos vapes.
-
-Automatização Robótica (Opcional): Integração com robôs para desmontagem precisa e segura.
-
-Aprendizado Contínuo: O sistema se adapta a novos modelos conforme aprende.
-
-Extensão Futurista: Lumafield: Integração com tomografia computadorizada 3D para planejamento de desmontagem com base em imagens internas.
-
-
+🔗 **[Assista ao Pitch de 3 Minutos](https://exemplo.com)** _(link a ser atualizado)_
 
 ---
 
-🔍 Demonstração Visual (MVP)
+## ❗ O Problema
 
-Nosso MVP é um protótipo funcional de IA com:
-
-Detecção de componentes via imagens (usando CNN + OpenCV)
-
-Interface web simples simulando a desmontagem
-
-(Opcional) Simulação 3D animada com "visão" estilo Lumafield
-
-
-> “Imagine um raio-X digital que revela exatamente onde está cada parte perigosa ou reutilizável do vape. É isso que estamos construindo.”
-
-
-
+A Receita Federal apreende milhares de cigarros eletrônicos anualmente. Desde 2009, sua comercialização é proibida pela ANVISA. Esses dispositivos contêm materiais tóxicos como baterias de lítio e nicotina, que ameaçam o meio ambiente e a saúde pública quando descartados incorretamente.
 
 ---
 
-🧭 Estrutura do Repositório
+## 🛠️ Nossa Solução
 
-/docs: Documentação completa
+A proposta do **ReCycle AI** envolve um sistema inteligente para:
 
-problem_and_solution.md
-
-technical_details.md
-
-impact_and_viability.md
-
-evaluation_criteria.md
-
-liquid_disposal_research.md
-
-
-/mvp: Protótipo funcional (código, mockups, simulações)
-
-/visuals: Diagramas e fluxogramas
-
-/team_secta: Informações sobre a equipe
-
-
+- 🔍 **Visão Computacional**: Identificação do modelo e componentes internos usando redes neurais convolucionais (CNN);
+- 🤖 **Automatização Robótica (Opcional)**: Desmontagem precisa por braços robóticos guiados por IA;
+- 🔁 **Aprendizado Contínuo**: Adaptação contínua a novos modelos de cigarros eletrônicos;
+- 🧠 **Extensão Futurista - Lumafield**: Integração com tomografia computadorizada 3D para desmontagens não destrutivas e planejamento otimizado.
 
 ---
 
-🏆 Como atendemos aos Critérios do Hackathon
+## 🧪 MVP (Protótipo Mínimo Viável)
 
-Critério	Como atendemos
+Nosso protótipo demonstra a identificação de componentes em imagens reais de vapes, com:
 
-Sustentabilidade	Reaproveitamento de plásticos e metais, economia circular
-Viabilidade Técnica	IA com CNN, OpenCV, protótipo funcional
-Viabilidade Econômica	Redução de custos com desmontagem manual, valor agregado em componentes
-Escalabilidade	Replicável em qualquer polo da Receita ou centro de reciclagem
-Criatividade e Inovação	Integração com tomografia 3D e abordagem autônoma
-Aplicação Social	Oficinas educativas com partes desmontadas, conscientização ambiental
-Apresentação e Clareza	README estruturado, pitch visual, simulação clara
+- Classificação automática de peças (bateria, cartucho, sensor);
+- Interface web simulando o processo de desmontagem;
+- (Opcional) Simulação 3D baseada em imagens ou mockups de tomografia.
 
-
+> _“Imagine um raio-X digital que revela onde está cada parte crítica. É isso que estamos construindo.”_
 
 ---
 
-💼 Tecnologias Utilizadas
+## 📁 [Estrutura do Repositório](#estrutura-do-repositório)
 
-Python + TensorFlow ou PyTorch
-
-OpenCV (visão computacional)
-
-Interface web (React ou HTML/CSS)
-
-Blender ou Figma (visualização 3D)
-
-(Opcional) Arduino/Raspberry Pi + câmera
-
-(Futurista) Lumafield Neptune + Voyager (CT Scan)
-
-
+- [`/docs`](./docs): Documentação técnica, viabilidade e impacto
+- [`/mvp`](./mvp): Código-fonte do protótipo, mockups e testes
+- [`/visuals`](./visuals): Diagramas, fluxogramas e renderizações 3D
+- [`/team_secta`](./team_secta): Informações sobre a equipe participante
 
 ---
 
-💰 Custo Estimado
+## 🏆 Como atendemos aos Critérios do Hackathon
 
-Item	Descrição	Estimativa de Custo
+| Critério                  | Estratégia de Atuação                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------|
+| ♻️ Sustentabilidade         | Reaproveitamento de plásticos e metais; economia circular                             |
+| 🧠 Viabilidade Técnica       | IA com CNNs, OpenCV, simulação 3D, arquitetura escalável                              |
+| 💰 Viabilidade Econômica     | Baixo custo de MVP; geração de valor com reaproveitamento                            |
+| 📈 Escalabilidade            | Modular e replicável em centros da Receita e triagens regionais                       |
+| 💡 Criatividade e Inovação   | Integração futura com tomografia 3D; abordagem inédita                                |
+| 🏫 Aplicação Social          | Oficinas educativas, conscientização sobre riscos e impactos do vape                  |
+| 🎯 Apresentação e Clareza    | Comunicação objetiva, pitch visual, interface intuitiva                               |
 
-MVP (Protótipo Inicial)	Desenvolvimento em Python, biblioteca de IA, uso de câmera básica	R$ 0 a R$ 500 (se necessário)
-Microcontrolador e sensores	Raspberry Pi/Arduino com câmera e sensores	R$ 300 a R$ 700
-Simulação 3D e Interface	Ferramentas gratuitas como Blender e Figma	R$ 0
-Infraestrutura para testes	Computador pessoal, ambiente de desenvolvimento local	R$ 0
-Extensão Futurista (Lumafield)	CT Scanner Lumafield Neptune (uso institucional ou parceria)	US$ 3.000/mês (opcional)
+---
 
+## 🧰 Tecnologias Utilizadas
 
-> A abordagem inicial é extremamente acessível para implementação em pequena escala. A integração com tecnologias avançadas está prevista apenas para versões institucionais.
+- Python + TensorFlow / PyTorch
+- OpenCV (visão computacional)
+- React ou HTML/CSS para interface
+- Blender ou Figma (simulação 3D / mockups)
+- Arduino/Raspberry Pi + câmera (opcional)
+- Lumafield Neptune + Voyager (cenário institucional)
+
+---
+
+## 💸 Custo Estimado
+
+| Item                            | Descrição                                                                 | Estimativa de Custo              |
+|----------------------------------|---------------------------------------------------------------------------|----------------------------------|
+| **MVP (Protótipo Inicial)**      | Câmera comum, desenvolvimento local, bibliotecas gratuitas                | R$ 0 a R$ 500                    |
+| Microcontrolador e sensores     | Raspberry Pi/Arduino + câmera, sensores básicos                           | R$ 300 a R$ 700                  |
+| Simulação 3D / Interface         | Uso de ferramentas gratuitas como Blender, Figma, HTML                    | R$ 0                             |
+| Infraestrutura de Testes         | Computador pessoal                                                        | R$ 0                             |
+| **Extensão Futurista (Lumafield)** | Scanner CT industrial para uso institucional                               | US$ 3.000/mês (opcional)        |
+
+> 💡 O MVP é acessível e funcional mesmo com baixo orçamento. A integração com tecnologias de ponta pode ser realizada via parcerias institucionais.
 
 ---
 
 ### 💡 Retorno Econômico para a Receita Federal
 
-O ReCycle AI não apenas resolve um problema ambiental e social, mas também oferece uma oportunidade de geração de valor. O retorno econômico para a Receita Federal pode ser obtido de várias formas:
+| Fonte de Receita                     | Descrição                                                                                         | Estimativa de Retorno                   |
+|--------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------|
+| ♻️ Reaproveitamento de Materiais       | Venda de baterias, plásticos e metais recuperados                                                 | R$ 200 a R$ 500 por vape                |
+| 🤝 Parcerias com Empresas de Reciclagem | Cooperação com indústrias para tratamento e revenda de componentes                               | R$ 50.000 a R$ 100.000/ano              |
+| 📄 Licenciamento de Tecnologia        | Comercialização da solução para centros de triagem, ONGs ou universidades                         | R$ 20.000 a R$ 50.000/ano               |
+| 🧑‍🏫 Programas Educacionais             | Oficinas com peças desmontadas, kits didáticos e conteúdos para escolas e ONGs                    | R$ 10.000 a R$ 30.000/ano               |
 
-| **Fonte de Receita**                     | **Descrição**                                                                                           | **Estimativa de Retorno**                                   |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| **Reaproveitamento de Materiais**        | Componentes de alto valor como baterias de lítio, plásticos e metais podem ser reciclados e revendidos. | R$ 200 a R$ 500 por vape (dependendo dos materiais recuperados) |
-| **Parcerias com Empresas de Reciclagem** | Parcerias com empresas para processamento dos materiais reaproveitados.                                 | R$ 50.000 a R$ 100.000 por ano (escala média)               |
-| **Licenciamento de Tecnologia**          | Possibilidade de licenciar a tecnologia de desmontagem para centros de triagem ou indústrias.           | R$ 20.000 a R$ 50.000 por ano                                |
-| **Educação e Conscientização**           | Módulos educativos e oficinas com peças desmontadas, para escolas e ONGs.                               | R$ 10.000 a R$ 30.000 por ano                                |
-
-> **Total Estimado de Retorno Anual:** R$ 280.000 a R$ 680.000, dependendo do volume de apreensões e parcerias firmadas.
-
-Este retorno pode cobrir os custos operacionais, financiar a expansão do projeto e ainda gerar recursos para programas de sustentabilidade e educação ambiental.
+> **Retorno total estimado:** entre **R$ 280.000 a R$ 680.000/ano**, com escalabilidade nacional.
 
 ---
 
-📅 Status no Hackathon
+## 🗓️ Status no Hackathon
 
-✅ Credenciamento
-
-✅ Estrutura da equipe definida
-
-✅ Planejamento logístico e técnico para as 48h
-
-
+- ✅ Credenciamento realizado
+- ✅ Funções da equipe definidas
+- ✅ Ferramentas e logística organizadas
 
 ---
 
-🚀 Conclusão
+## ✅ Conclusão
 
-O ReCycle AI alia inovação tecnológica à responsabilidade ambiental. Com IA, automação e potencial educacional, nossa solução representa um novo caminho para o aproveitamento inteligente de produtos apreendidos.
-
+**ReCycle AI** oferece uma solução sustentável, escalável e inovadora para a desmontagem de cigarros eletrônicos apreendidos. Unindo IA, automação e impacto social, a proposta converte um passivo ambiental em uma ferramenta de transformação econômica e educacional.
 
 ---
 
-Vamos transformar um passivo ambiental em um ativo educacional e tecnológico.
-
+<p align="center">
+  <strong>Vamos transformar um passivo ambiental em um ativo educacional e tecnológico!</strong>
+</p>
