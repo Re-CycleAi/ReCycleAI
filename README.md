@@ -79,11 +79,11 @@ Além do retorno econômico, o **Reciclo Educação** proporciona:
 - **Melhoria da imagem institucional** da Receita Federal.  
 - **Incentivo à economia circular e inovação sustentável**.  
 
----  
+
 
 🚀 **Uma solução inovadora e escalável, pronta para mudar o futuro da educação e reciclagem!** ♻️✨  
 
----
+
 
 ## 📅 Status no Hackathon
 ✅ Credenciamento realizado  
