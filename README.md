@@ -81,7 +81,7 @@ Além do retorno econômico, o **Reciclo Educação** proporciona:
 
 
 
-🚀 **Uma solução inovadora e escalável, pronta para mudar o futuro da educação e reciclagem!** ♻️✨  
+##🚀 **Uma solução inovadora e escalável, pronta para mudar o futuro da educação e reciclagem!** ♻️✨  
 
 
 
