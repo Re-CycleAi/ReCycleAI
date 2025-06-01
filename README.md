@@ -18,8 +18,8 @@ Milhares de vapes são apreendidos anualmente pela Receita Federal e descartados
 
 ---
 
-## 📘 Nossa Solução: Manual e Kit Educativo
-Desenvolvemos um **guia prático** e um **kit didático**, capacitando professores e alunos a reaproveitar componentes eletrônicos de forma **segura e criativa**.
+## 📘 Nossa Solução: Ideias de Projetos Práticos e Kit Educativo
+Desenvolvemos um **kit didático**, com componentes eletrônicos de forma **segura e criativa**.
 
 | 🔧 Componente | 📌 Aplicação | 📚 Conteúdo Técnico |
 |--------------|-------------|------------------|
@@ -50,13 +50,13 @@ Desenvolvemos um **guia prático** e um **kit didático**, capacitando professor
 
 ---
 
-## 💸 Estimativa de Custos por Usuário
+## 💸 Estimativa de Custos por Kit
 Nosso MVP visa **baixo custo e alta funcionalidade**. A integração com tecnologia de ponta pode ocorrer por meio de **parcerias estratégicas**.
 
 | Item | Descrição | Estimativa (R$) |
 |------|----------|----------------|
 | MVP Inicial | Câmera comum, libs grátis | 0 - 500 |
-| Microcontrolador | Raspberry Pi/Arduino + sensores | 300 - 700 |
+| Microcontrolador | Raspberry Pi/Arduino + sensores | 300 - 500 |
 | Interface 3D | Ferramentas gratuitas | 0 |
 | Manual impresso | A5, P&B, 3 páginas | 3 |
 | Protoboard | 400 furos | 15,80 |
@@ -67,19 +67,6 @@ Nosso MVP visa **baixo custo e alta funcionalidade**. A integração com tecnolo
 | **Botões (Interruptores)** | Reaproveitados dos dispositivos descartados | **0** |
 | **Fios e Conectores** | Removidos e reutilizados | **0** |
 | **Motor de Vibração (Opcional)** | Extraído para aplicações educativas | **0** |
-
-
-
----
-
-## 💡 Retorno Econômico e Institucional
-💰 **Potencial de retorno anual:** R$ **45.000 a R$ 120.000**, fortalecendo a **imagem institucional** da Receita Federal e incentivando a **educação sustentável**.
-
-| Fonte de Valor | Benefício Estimado (R$/ano) |
-|---------------|----------------------------|
-| 📚 Manuais educativos | 10.000 - 40.000 |
-| 🔧 Kits didáticos | 20.000 - 50.000 |
-| 👨‍🏫 Oficinas e treinamentos | 15.000 - 30.000 |
 
 ---
 
