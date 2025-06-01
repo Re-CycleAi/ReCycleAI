@@ -70,6 +70,21 @@ Nosso MVP visa **baixo custo e alta funcionalidade**. A integração com tecnolo
 
 ---
 
+## 🌍 **Impactos Adicionais**  
+
+Além do retorno econômico, o **Reciclo Educação** proporciona:
+
+- **Redução de desperdício eletrônico** e impacto ambiental.  
+- **Inclusão social** com programas de aprendizado técnico.  
+- **Melhoria da imagem institucional** da Receita Federal.  
+- **Incentivo à economia circular e inovação sustentável**.  
+
+---  
+
+🚀 **Uma solução inovadora e escalável, pronta para mudar o futuro da educação e reciclagem!** ♻️✨  
+
+---
+
 ## 📅 Status no Hackathon
 ✅ Credenciamento realizado  
 ✅ Funções da equipe definidas  
