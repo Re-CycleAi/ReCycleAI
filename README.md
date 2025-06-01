@@ -55,18 +55,18 @@ Nosso MVP visa **baixo custo e alta funcionalidade**. A integração com tecnolo
 
 | Item | Descrição | Estimativa (R$) |
 |------|----------|----------------|
-| MVP Inicial | Câmera comum, libs grátis | 0 - 500 |
-| Microcontrolador | Raspberry Pi/Arduino + sensores | 300 - 500 |
-| Interface 3D | Ferramentas gratuitas | 0 |
-| Manual impresso | A5, P&B, 3 páginas | 3 |
-| Protoboard | 400 furos | 15,80 |
-| Módulo Carregador TP4056 | Proteção + Micro USB | 5,90 |
-| **Bateria de Íons de Lítio** | Reaproveitada de vapes apreendidos | **0** |
-| **Placa de Circuito Impresso** | Extraída e reutilizada dos vapes | **0** |
-| **LEDs Indicadores** | Recuperados e incorporados no kit | **0** |
-| **Botões (Interruptores)** | Reaproveitados dos dispositivos descartados | **0** |
-| **Fios e Conectores** | Removidos e reutilizados | **0** |
-| **Motor de Vibração (Opcional)** | Extraído para aplicações educativas | **0** |
+| MVP Inicial | Câmera comum, libs grátis | R$0 à 500 |
+| Microcontrolador | Raspberry Pi/Arduino + sensores | R$300 à 500 |
+| Interface 3D | Ferramentas gratuitas | R$0 |
+| Manual impresso | A5, P&B, 3 páginas |R$3 |
+| Protoboard | 400 furos | R$15,80 |
+| Módulo Carregador TP4056 | Proteção + Micro USB | R$5,90 |
+| **Bateria de Íons de Lítio** | Reaproveitada de vapes apreendidos | R$0 |
+| **Placa de Circuito Impresso** | Extraída e reutilizada dos vapes | R$0 |
+| **LEDs Indicadores** | Recuperados e incorporados no kit | R$0 |
+| **Botões (Interruptores)** | Reaproveitados dos dispositivos descartados | R$0 |
+| **Fios e Conectores** | Removidos e reutilizados | R$0 |
+| **Motor de Vibração (Opcional)** | Extraído para aplicações educativas | R$0 |
 
 ---
 
