@@ -1,39 +1,47 @@
-# ❗ Problema e Solução — ReCycle AI
+# ❗ Problema e Solução — Reciclo Educação
 
 ## 🧨 O Problema
 
-Desde 2009, a comercialização, importação e propaganda de cigarros eletrônicos (vapes) são proibidas pela ANVISA no Brasil. Ainda assim, a Receita Federal apreende **milhares de unidades por ano**, que se acumulam como um **problema logístico, ambiental e de saúde pública**.
+Milhares de cigarros eletrônicos (**vapes**) são apreendidos anualmente pela Receita Federal e descartados como **lixo eletrônico**. Esses dispositivos contêm **baterias de lítio, metais pesados e circuitos eletrônicos**, representando um **passivo ambiental crescente**.
 
-### Por que isso é crítico?
+### ⚠️ Por que isso é crítico?
 
-- 🚫 **Descarte inadequado:** Baterias de lítio, metais pesados e líquidos com nicotina são altamente poluentes.
-- 🔋 **Risco de explosão/incêndio:** Baterias danificadas ou mal armazenadas podem causar acidentes.
-- 🧪 **Resíduos perigosos:** Substâncias químicas em contato com o meio ambiente representam riscos à fauna, flora e saúde humana.
-- 🗑️ **Falta de solução escalável:** Não existe atualmente um processo padronizado para o desmonte e reaproveitamento desses dispositivos.
+- 🗑️ **Descarte inadequado** de vapes contribui para a poluição ambiental.  
+- 🔋 **Baterias de lítio** podem causar explosões e vazamentos químicos tóxicos.  
+- 🧪 **Componentes eletrônicos contaminantes** como níquel e cádmio impactam a saúde humana.  
+- 🚫 **Falta de soluções de reaproveitamento** limita alternativas sustentáveis.  
 
-> A cada vape apreendido e descartado de forma incorreta, cresce um passivo ambiental sem utilidade prática.
-
----
-
-## 🤖 A Solução: ReCycle AI
-
-**ReCycle AI** é um sistema baseado em **inteligência artificial e visão computacional** que automatiza a desmontagem e classificação dos componentes dos cigarros eletrônicos apreendidos. Seu objetivo é transformar um resíduo tóxico em uma **fonte de matéria-prima reaproveitável**, **conhecimento** e **impacto positivo**.
-
-### Componentes da Solução
-
-- 🔍 **Visão Computacional:** Identifica o modelo do vape e localiza automaticamente baterias, sensores, cartuchos, etc.
-- 🧠 **Inteligência Artificial:** Classifica componentes e orienta a sequência de desmontagem segura.
-- 🤖 **Automação (futuramente):** Integração com braços robóticos para desmontagem precisa e sem contato humano direto.
-- 📊 **Aprendizado Contínuo:** O sistema se adapta automaticamente a novos modelos com base em imagens.
-- 🧬 **Extensão Futurista:** Integração com tomografia industrial 3D (Lumafield) para desmontagem guiada por imagem interna.
+Sem um plano adequado, vapes apreendidos tornam-se **resíduos perigosos**, aumentando os riscos ambientais e de saúde pública.
 
 ---
 
-## 🌱 Oportunidades Geradas
+## ✅ Nossa Solução: Reciclo Educação
 
-- ♻️ **Reaproveitamento de componentes** (baterias, metais, plásticos).
-- 🧑‍🏫 **Educação ambiental**: uso das peças desmontadas em oficinas e kits didáticos.
-- 💰 **Geração de receita**: com venda de materiais ou licenciamento da tecnologia.
-- 🔐 **Segurança e padronização**: reduz o risco de acidentes e define um protocolo reutilizável.
+O **Reciclo Educação** é um projeto que transforma cigarros eletrônicos descartados em **kits educacionais sustentáveis**. Em vez de descartar os componentes, reutilizamos peças como **baterias, LEDs e circuitos** para ensinar conceitos de eletrônica e sustentabilidade.
 
-> **Problema real. Tecnologia acessível. Solução com impacto.**
+### 🔧 Como Funciona?
+
+- 🔍 **Triagem de Componentes** → Identificação das peças reaproveitáveis de vapes descartados.  
+- 🔬 **Desmontagem Segura** → Extração responsável de baterias, placas e sensores.  
+- 📘 **Montagem dos Kits Didáticos** → Reutilização dos componentes em projetos educacionais.  
+- 🏫 **Oficinas Técnicas** → Uso dos kits em aulas práticas de eletrônica e sustentabilidade.  
+
+🚀 **Transformamos lixo eletrônico em aprendizado!**  
+
+---
+
+## 🌱 Oportunidades e Impactos
+
+✔ **Redução de lixo eletrônico** → Menos descarte tóxico no meio ambiente.  
+✔ **Educação acessível** → Kits didáticos para escolas, ONGs e universidades.  
+✔ **Inclusão social** → Capacitação técnica com componentes reais.  
+✔ **Geração de valor** → Reaproveitamento sustentável, agregando conhecimento e inovação.  
+
+📢 **Uma solução escalável e replicável em todo o Brasil!**
+
+---
+
+## 🔗 Saiba Mais  
+
+- 📖 [Detalhes técnicos do projeto](detalhes_tecnicos.md)  
+- 💰 [Análise de custo e viabilidade](custo.md)  
