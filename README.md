@@ -1,9 +1,9 @@
-# 📘 Reciclo Educação — Kit Didático com Componentes de Vapes Descartados ♻️
+# 📘 ReCiclo+ Educação — Kit Didático com Componentes de Vapes Descartados ♻️
 
 Uma iniciativa da equipe **Secta** para o **1º Hackathon Receita Federal 2025**.
 
 ## 🚀 Visão Geral
-**Reciclo Educação** transforma cigarros eletrônicos descartados—um grave passivo ambiental—em valiosos ativos educacionais. Por meio de **kits didáticos** e **manuais ilustrados**, o projeto promove o **uso seguro, sustentável e criativo** de seus componentes eletrônicos.
+**ReCiclo+ Educação** transforma cigarros eletrônicos descartados—um grave passivo ambiental—em valiosos ativos educacionais. Por meio de **kits didáticos** e **manuais ilustrados**, o projeto promove o **uso seguro, sustentável e criativo** de seus componentes eletrônicos.
 
 ### 🌟 Benefícios do Projeto:
 - ✅ Fortalece a imagem de empresas parceiras como inovadoras e sustentáveis.  
