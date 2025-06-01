@@ -61,6 +61,14 @@ Nosso MVP visa **baixo custo e alta funcionalidade**. A integração com tecnolo
 | Manual impresso | A5, P&B, 3 páginas | 3 |
 | Protoboard | 400 furos | 15,80 |
 | Módulo Carregador TP4056 | Proteção + Micro USB | 5,90 |
+| **Bateria de Íons de Lítio** | Reaproveitada de vapes apreendidos | **0** |
+| **Placa de Circuito Impresso** | Extraída e reutilizada dos vapes | **0** |
+| **LEDs Indicadores** | Recuperados e incorporados no kit | **0** |
+| **Botões (Interruptores)** | Reaproveitados dos dispositivos descartados | **0** |
+| **Fios e Conectores** | Removidos e reutilizados | **0** |
+| **Motor de Vibração (Opcional)** | Extraído para aplicações educativas | **0** |
+
+
 
 ---
 
